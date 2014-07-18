@@ -5,6 +5,13 @@ OF_PATH = ../../..
 //THIS HAS ALL THE HEADER AND LIBS FOR OF CORE
 #include "../../../libs/openFrameworksCompiled/project/osx/CoreOF.xcconfig"
 
+// begin ITK
+HEADER_ITK = "$(OF_PATH)/addons/ofxITK/libs/ITK/include/ITK-4.6/**"
+
+//LIB_ITK = "$(OF_PATH)/addons/ofxBullet/libs/bullet2.8.1/lib/osx/i386/libBulletCollision.a"
+LIB_ITK = "$(OF_PATH)/addons/ofxITK/libs/ITK/lib/osx/**"
+// end ITK
+
 //ICONS - NEW IN 0072 
 ICON_NAME_DEBUG = icon-debug.icns
 ICON_NAME_RELEASE = icon.icns
