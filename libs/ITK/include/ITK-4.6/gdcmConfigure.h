@@ -43,8 +43,8 @@
 /* Usefull in particular for loadshared where the full path
  * to the lib is needed */
 #define GDCM_SOURCE_DIR "/Users/wswi/Desktop/PROGRAM/ITK_VTK/ITK/Modules/ThirdParty/GDCM/src/gdcm"
-#define GDCM_EXECUTABLE_OUTPUT_PATH "/Users/wswi/Desktop/PROGRAM/ITK_VTK/ITK_bin/bin"
-#define GDCM_LIBRARY_OUTPUT_PATH    "/Users/wswi/Desktop/PROGRAM/ITK_VTK/ITK_bin/lib"
+#define GDCM_EXECUTABLE_OUTPUT_PATH "/Users/wswi/Desktop/PROGRAM/ITK_VTK/ITK_bin2/bin"
+#define GDCM_LIBRARY_OUTPUT_PATH    "/Users/wswi/Desktop/PROGRAM/ITK_VTK/ITK_bin2/lib"
 
 /* #undef GDCM_BUILD_TESTING */
 

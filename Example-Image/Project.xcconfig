@@ -7,8 +7,6 @@ OF_PATH = ../../..
 
 // begin ITK
 HEADER_ITK = "$(OF_PATH)/addons/ofxITK/libs/ITK/include/ITK-4.6/**"
-
-//LIB_ITK = "$(OF_PATH)/addons/ofxBullet/libs/bullet2.8.1/lib/osx/i386/libBulletCollision.a"
 LIB_ITK = "$(OF_PATH)/addons/ofxITK/libs/ITK/lib/osx/**"
 // end ITK
 
